@@ -8,6 +8,6 @@ Plain text
 * Star bullet 3
 More plain text
 Parent category outcomes graph
-![parentcategoryoutcomes.png](parentcategoryoutcomes.png)
+![parentcategoryoutcomes.png](/parentcategoryoutcomes.png)
 Path to excel file
-[data-1-1-3-StarterBook.xlsx](data-1-1-3-StarterBook.xlsx)
+[data-1-1-3-StarterBook.xlsx](/data-1-1-3-StarterBook.xlsx)
