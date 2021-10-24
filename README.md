@@ -1,9 +1,13 @@
 # An Analysis of Kickstarter Campaigns
+##Level 2 header
+###Level 3 header
 *1 Numbered Bullet one
 *2 Numbered Bullet two
 *3 Numbered Bullet three
 ---
 Plain text
+**Bold**
+
 ---
 * Star bullet 1
 * Star bullet 2
