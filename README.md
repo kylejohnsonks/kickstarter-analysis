@@ -7,9 +7,13 @@
 ---
 Plain text
 **Bold**
+
 *italic*
+
 ~~strikethru~~
+
 **this is _nested italic_ text inside bold**
+
 ***bold and italic***
 ---
 * Star bullet 1
