@@ -1,31 +1,26 @@
-# An Analysis of Kickstarter Campaigns
-## Level 2 header
-### Level 3 header
-1. Numbered Bullet one
-2. Numbered Bullet two
-3. Numbered Bullet three
----
-Plain text
-**Bold**
+# Kickstarting with Excel
 
-*italic*
+## Overview of Project
 
-~~strikethru~~
+### Purpose
 
-**this is _nested italic_ text inside bold**
+## Analysis and Challenges
 
-***bold and italic***
+### Analysis of Outcomes Based on Launch Date
+To create an analysis based on launch date, filterable by subcategory and year it was first necessary to calculate the year for each record.  That was accomplished by adding a new column with the title 'years' and year forumala with creation date as the argument in each cell.  
 ---
-* Star bullet 1
-* Star bullet 2
-* Star bullet 3
----
-More plain text
----
-Parent category outcomes graph
----
-![parentcategoryoutcomes.png](/ParentCategoryOutcomes.png)
----
-Path to excel file
----
-[data-1-1-3-StarterBook.xlsx](/data-1-1-3-StarterBook.xlsx)
+![ss1.png](/resources/ss1.png)
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+The number of failed projects is relatively consistent throughout the year.  Both the total number of projects and the number of successful projects increase in the spring and early summer, specifically the months of May, June and July, in descending order.  Based on this, May would be the best month to launch for Louise to launch a campaign.
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
