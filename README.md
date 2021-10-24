@@ -13,6 +13,7 @@ More plain text
 ---
 Parent category outcomes graph---
 ![parentcategoryoutcomes.png](/ParentCategoryOutcomes.png)---
+Parent category outcomes graph from KA---
 ![parentcategoryoutcomes.png](kickstarter-analysis/ParentCategoryOutcomes.png)---
 Path to excel file---
 [data-1-1-3-StarterBook.xlsx](/data-1-1-3-StarterBook.xlsx)
