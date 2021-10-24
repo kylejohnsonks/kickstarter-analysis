@@ -15,7 +15,7 @@ Next a new pivot table was created in a new worksheet, later renamed 'Theatre Ou
 ---
 ![ss1.png](/resources/ss2.png)
 ---
-The Parent Category filter was set to 'theater' to ensure the results were relevnat to the project.  From there a line chart was generated.  
+The Parent Category filter was set to 'theater' to ensure the results were relevant to the project.  From there the line chart below was generated.  
 ---
 ![Theater_Outcomes_vs_Launch.png](/resources/Theater_Outcomes_vs_Launch.png)
 
