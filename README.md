@@ -10,6 +10,12 @@
 To create an analysis based on launch date, filterable by subcategory and year, it was first necessary to calculate the year for each record.  That was accomplished by adding a new column with the title 'years' and year forumala with creation date as the argument in each cell.  
 ---
 ![ss1.png](/resources/ss1.png)
+---
+Next a new pivot table was created in a new worksheet, later renamed 'Theatre Outcomes by Launch Date'.  Filters were added on the 'Parent Category' and 'Years' fileds. The 'Outcomes'field was added to the Values and Columns to report a grand total and counts by outcome.  The date created field was added to rows, with the year and quarter elements removed to yield each month in a row. 
+---
+![ss1.png](/resources/ss2.png)
+---
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
