@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date ###
 
-To create an analysis based on launch date, filterable by subcategory and year, it was first necessary to calculate the year for each record.  That was accomplished by adding a new column with the title 'years' and year forumala with creation date as the argument in each cell.  
+#### To create an analysis based on launch date, filterable by subcategory and year, it was first necessary to calculate the year for each record.  That was accomplished by adding a new column with the title 'years' and year forumala with creation date as the argument in each cell.  
 ---
 ![ss1.png](/resources/ss1.png)
 ---
