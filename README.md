@@ -25,7 +25,7 @@
 ---
 ![ss3.png](/resources/ss3.png)
 ---
-#### The total number of projects was calcualted as the sum of the three outcomes for each range.  Percentages for each outcome were calculated by dividing the outcome account by the total number of projects.  The formula `=b2/$e2` which anchors the column refrence to the 'Total Projects' column, was entered in cell F2, then filled down and right to calculate values for each outcome/range combination.  The line chart below was generated from the resulting data.
+#### The total number of projects was calcualted as the sum of the three outcomes for each range.  Percentages for each outcome were calculated by dividing the outcome count by the total number of projects.  The formula `=b2/$e2`, which anchors the column refrence to the 'Total Projects' column, was entered in cell F2, then filled down and right to calculate values for each outcome/range combination.  The line chart below was generated from the resulting data.
 ---
 ![Outcomes_vs_Goals.png](/resources/Outcomes_vs_Goals.png)
 ---
