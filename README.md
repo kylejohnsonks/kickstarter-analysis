@@ -21,6 +21,14 @@
 ![Theater_Outcomes_vs_Launch.png](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+#### In order to create a graph of Outcomes Based on Goals, it was first necessary to create a new table to organize and calculate the outcome data.  Columns were created to count successful, failed and canceled projects according to the goal ranges in column A.  Limiting the results to the subscategory 'plays', therefore required three search constraints, Goal, Subcategory and Outcome.  This was accomplished with the `=countifs()` function as show in this image:
+---
+![ss3.png](/resources/ss3.png)
+---
+#### The total number of projects was calcualted as the sum of the three outcomes for each range.  Percentages for each outcome were calculated by dividing the outcome account by the total number of projects.  The formula `=b2/$e2` which anchors the column refrence to the 'Total Projects' column, was entered in cell F2, then filled down and right to calculate values for each outcome/range combination.  The line chart below was generated from the resulting data.
+---
+![Outcomes_vs_Goals.png](/resources/Outcomes_vs_Goals.png)
+---
 
 ### Challenges and Difficulties Encountered
 
