@@ -50,11 +50,14 @@ Based on this, May would be the best month to launch for Louise to launch a camp
 ## *Enter Answer here*
 
 - What are some limitations of this dataset?
+
 Filtering the data can return very small data sets in some cases and are consequently more variable.
 There are dimensions of these campaigns that are not captured in the data and may be important in predicting outcomes.
 Some of the failed projects appear on the list multiple times.  Escpecially when filtering produces small data sets, these duplicates can bias the results.
 
 - What are some other possible tables and/or graphs that we could create?
+
+
 The spotlight field contains True/False data for each campaign.  This is may be an option choice Louise has when creating a campaing.  If so, we could look for a relationship between spotlight and outcome.  To do so we woould create a table with a count of total outcomes and subtotals by spotlight value in columns and project outcomes in rows.  A line graph could be produced from this data.  Filters could also be added to allow the examintion of parent categoy, subcategory or other fields.
 
 We could take a similar approach with the staff_pick field and/or backers_count field.  Those may be harder for Louise to influence, but if a relationship exists it might suggests important steps she should take to succeed.
