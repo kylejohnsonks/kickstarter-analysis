@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-## *Enter Purpose here* (change back to \#\#\#)
+### Our client Louise has requested that we analyze data obtained from kickstarter with information about camapigns launched there.  *Enter Purpose here* (change back to \#\#\#)
 
 ## Analysis and Challenges
 
