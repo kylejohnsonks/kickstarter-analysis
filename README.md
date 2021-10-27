@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Our client Louise has requested that we analyze data obtained from kickstarter with information about camapigns launched there.  *Enter Purpose here* (change back to \#\#\#)
+### Our client Louise seeks to lauch her plays using kickstarter, a popular crowd funding source.  To aid that effort, she has requested that we analyze data obtained from kickstarter with information about camapigns launched there.  That data set contains over 4000 records with 21 fileds, providing a variety of data points that allow it to be filtered to relevant results.  Specifically we want to see what, if any, relationship exists between campaign outcome and two factors: launch date and goals.
 
 ## Analysis and Challenges
 
@@ -40,16 +40,21 @@ The total number of projects was calcualted as the sum of the three outcomes for
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The number of failed projects is relatively consistent throughout the year.  Both the total number of projects and the number of successful projects increase in the spring and early summer, specifically the months of May, June and July, in descending order.  Based on this, May would be the best month to launch for Louise to launch a campaign.
+1. The number of failed projects is relatively consistent throughout the year.  
+2. Both the total number of projects and the number of successful projects increase in the spring and early summer, specifically the months of May, June and July, in descending order.  
+
+Based on this, May would be the best month to launch for Louise to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
 
 ## *Enter Answer here*
 
 - What are some limitations of this dataset?
-
-## *Enter Answer here*
+Filtering the data can return very small data sets in some cases and are consequently more variable.
+There are dimensions of these campaigns that are not captured in the data and may be important in predicting outcomes.
+Some of the failed projects appear on the list multiple times.  Escpecially when filtering produces small data sets, these duplicates can bias the results.
 
 - What are some other possible tables and/or graphs that we could create?
+The spotlight field contains True/False data for each campaign.  This is may be an option choice Louise has when creating a campaing.  If so, we could look for a relationship between spotlight and outcome.  To do so we woould create a table with a count of total outcomes and subtotals by spotlight value in columns and project outcomes in rows.  A line graph could be produced from this data.  Filters could also be added to allow the examintion of parent categoy, subcategory or other fields.
 
-## *Enter Answer here*
+We could take a similar approach with the staff_pick field and/or backers_count field.  Those may be harder for Louise to influence, but if a relationship exists it might suggests important steps she should take to succeed.
