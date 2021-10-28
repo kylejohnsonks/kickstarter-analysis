@@ -35,8 +35,6 @@ The total number of projects was calcualted as the sum of the three outcomes for
 ### Challenges and Difficulties Encountered
 The mainpulations required by both projects were relatively straight forward, but each had a potentially challenging spot.  Creating the pivot table for the Launch Date anlaysis required adding a date to the rows section.  Excel automatically creates a year and quarter entry which are superflous for our purposes and had to be removed.  The biggest challenge in the Goals analysis was creating the `=countifs()` formulas.  Each formula required three unique arguments and it would be easy to build one incorrectly.
 
-## *Enter Challenges Response here*
-
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -57,7 +55,6 @@ There are dimensions of these campaigns that are not captured in the data and ma
 Some of the failed projects appear on the list multiple times.  Escpecially when filtering produces small data sets, these duplicates can bias the results.
 
 - What are some other possible tables and/or graphs that we could create?
-
 
 The spotlight field contains True/False data for each campaign.  This is may be an option choice Louise has when creating a campaing.  If so, we could look for a relationship between spotlight and outcome.  To do so we woould create a table with a count of total outcomes and subtotals by spotlight value in columns and project outcomes in rows.  A line graph could be produced from this data.  Filters could also be added to allow the examintion of parent categoy, subcategory or other fields.
 
