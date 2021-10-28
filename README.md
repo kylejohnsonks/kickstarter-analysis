@@ -45,6 +45,8 @@ The mainpulations required by both projects were relatively straight forward, bu
 Based on this, May would be the best month to launch for Louise to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
+The graph shows an inverese relationship between success and goal amount.  The trend becomes less clear when the goal amount reaches $25,000, but it's important to point out that the number of data points drops dramatically at the same time.  There are a total of 682 records with goals between $0 and $24999 but only 12 records with goals of $25,000 or more.  It's not surprising to see large variation in such a small sample.
+
 
 ## *Enter Answer here*
 
