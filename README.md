@@ -33,6 +33,7 @@ The total number of projects was calcualted as the sum of the three outcomes for
 ![Outcomes_vs_Goals.png](/resources/Outcomes_vs_Goals.png)
 --- 
 ### Challenges and Difficulties Encountered
+The mainpulations required by both projects were relatively straight forward, but each had a potentially challenging spot.  Creating the pivot table for the Launch Date anlaysis required adding a date to the rows section.  Excel automatically creates a year and quarter entry which are superflous for our purposes and had to be removed.  The biggest challenge in the Goals analysis was creating the `=countifs()` formulas.  Each formula required three unique arguments and it would be easy to build one incorrectly.
 
 ## *Enter Challenges Response here*
 
