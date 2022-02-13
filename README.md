@@ -59,3 +59,6 @@ Some of the failed projects appear on the list multiple times.  Escpecially when
 The spotlight field contains True/False data for each campaign.  This is may be an option choice Louise has when creating a campaing.  If so, we could look for a relationship between spotlight and outcome.  To do so we woould create a table with a count of total outcomes and subtotals by spotlight value in columns and project outcomes in rows.  A line graph could be produced from this data.  Filters could also be added to allow the examintion of parent categoy, subcategory or other fields.
 
 We could take a similar approach with the staff_pick field and/or backers_count field.  Those may be harder for Louise to influence, but if a relationship exists it might suggests important steps she should take to succeed.
+
+# Tools Used
+- Excel, formulas, pivot tables
